@@ -126,7 +126,7 @@ Open `ndvi_landcover_classification_logreg.ipynb` in Jupyter and run all cells.
 
 ## 📬 Contact
 
-Feel free to open an [issue](https://github.com/your-username/ndvi-landcover-classification/issues) or contact me for questions or improvements.
+Feel free to open an [issue](https://github.com/Uttam1611/Summer-analytics-2025/issues) or contact me for questions or improvements.
 
 ---
 
